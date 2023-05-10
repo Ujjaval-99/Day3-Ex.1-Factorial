@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\bin\Debug\net7.0\FactorialNumber.exe
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\bin\Debug\net7.0\FactorialNumber.deps.json
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\bin\Debug\net7.0\FactorialNumber.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\bin\Debug\net7.0\FactorialNumber.dll
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\bin\Debug\net7.0\FactorialNumber.pdb
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.dll
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\refint\FactorialNumber.dll
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.pdb
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\FactorialNumber.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\FactorialNumber\FactorialNumber\obj\Debug\net7.0\ref\FactorialNumber.dll
